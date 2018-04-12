@@ -6,6 +6,7 @@ The idea is that as a Baqend user, you can share your modules with the community
 ## Overview of Available Blueprints
 These are the currently available blueprints, what they do and who contributed them:
 * **Rate-Limiter** - limits the number of calls that can be made from a given IP per minute. Userful for expensive computations or for Baqend code that uses rate-limited 3rd party APIs. _Contributor_: Baqend, support@baqend.com
+* **Download-to-File** - Downloads a file from a web URL and saves it as a Baqend file.  _Contributor_: Baqend, support@baqend.com
 
 ## Installing a Blueprint
 To learn how Baqend Code works in general, check out the [Guide on Baqend Code](https://www.baqend.com/guide/topics/baqend-code/).
