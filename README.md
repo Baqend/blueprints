@@ -4,7 +4,7 @@ This repository collects ready-to-use blueprints for Baqend Code.
 The idea is that as a Baqend user, you can share your modules with the community, get feedback & improvements and start your projects with blueprints for common problems: intergrations to payment providers, social networks, 3rd party APIs, data mining algorithms, tracking implementations, etc.
 
 ## Overview of Available Blueprints
-These are the currently available blueprint, what they do and who contributed them:
+These are the currently available blueprints, what they do and who contributed them:
 * **Rate-Limiter** - limits the number of calls that can be made from a given IP per minute. Userful for expensive computations or for Baqend code that uses rate-limited 3rd party APIs. _Contributor_: Baqend, support@baqend.com
 
 ## Installing a Blueprint
